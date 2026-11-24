@@ -1,0 +1,6 @@
+{
+  "name": "PathShift",
+  "description": "Find your next career in 5 minutes. A calm, personalized career transition assessment with AI career coaching and a 3-month human transition plan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
